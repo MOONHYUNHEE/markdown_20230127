@@ -1,8 +1,27 @@
 # markdown_20230127
 마크다운 설명
 
+### 11. 테이블(표)만들기 
+|번호|아이디|이름|레벨|이메일|등록일|
+|:---------|:---------|:---------------|--------------:|:----------------|---------:|
+|1         |james1     |이상무          |1              |jamesol@paran.com|2023-01-27
+|2         |james2     |이상무          |1              |jamesol@paran.com|2023-01-27
+|3         |james3     |이상무          |1              |jamesol@paran.com|2023-01-27
+|4         |james4     |이상무          |1              |jamesol@paran.com|2023-01-27
+|5         |james5     |이상무          |1              |jamesol@paran.com|2023-01-27
+|6         |james6     |이상무          |1              |jamesol@paran.com|2023-01-27
+
+### 10. 인라인 코드
+문단 중간에 `CODE`를 넣을 수 있습니다.  (고정 폭 폰트를 표시할 때 사용) 
+예를 들어 `question_list = Question.objects.filter(id=99)`처럼 
+
+### 9. 강조
+**Spring**을 만끽하세요.  
+*Spring*을 즐기세요.  
+Spring 을 즐기세요.
+
 ### 8. 이미지 넣기
-![]()
+![파이참 스크린샷](https://github.com/MOONHYUNHEE/markdown_20230127/blob/main/doc/%EC%BA%A1%EC%B2%981.jpg "파이참 스크린샷 화면")
 
 ### 7. 하이퍼링크 
 [e클래스](https://cafe.daum.net/pcwk "e클래스의 cafe입니다.")
