@@ -1,5 +1,5 @@
 <div align=center>
-    ![대문 이미지](https://github.com/MOONHYUNHEE/markdown_20230127/commit/bb3a0315c365956d3172d2300986da3f7351a09b)
+    ![대문 이미지](https://github.com/MOONHYUNHEE/markdown_20230127/blob/main/doc/%EC%BA%A1%EC%B2%982.jpg)
     # 0. 목차:link:
     #### 팀 소개 
     #### 기획
