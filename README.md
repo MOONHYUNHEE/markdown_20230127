@@ -35,6 +35,6 @@
    
 # 4. Project 설계 
    ### 4.1- 요구사항정의서 
-![image](https://user-images.githubusercontent.com/119906623/215012951-7e4634f7-908a-4535-a0e3-98fc6ab94410.png)
+   <img src="https://user-images.githubusercontent.com/119906623/215012951-7e4634f7-908a-4535-a0e3-98fc6ab94410.png" width="200" height="400"/>
 
 # 5. 기능 시연
