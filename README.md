@@ -1,10 +1,11 @@
 ![포스터](https://github.com/MOONHYUNHEE/markdown_20230127/blob/main/doc/%EC%BA%A1%EC%B2%982.jpg)  
+
 # 0. 목차:link:  
-[1.팀 소개](#1-팀소개)  
-[2. Project 목표](#2-Project목표)   
-[3. Project 기획](#3-Project기획)  
-[4. Project 설계](#4-Project설계)  
-[5. 기능 시연](#5-기능시연)  
+[1.팀 소개](#1-팀-소개)  
+[2. Project 목표](#2-Project-목표)   
+[3. Project 기획](#3-Project-기획)  
+[4. Project 설계](#4-Project-설계)  
+[5. 기능 시연](#5-기능-시연)  
     
 # 1-팀 소개 
 팀원: 김민환, 김성범, 김유석, 문현희, 안성현, 윤한성, 정승연, 정효빈
@@ -19,7 +20,7 @@
 |안성현     |메인, 회원가입 |
 |윤한성     |메인, 회원가입 |
 |정승연     |메인, 회원가입 |
-|정효빈     |메인, 회원가입 |
+|정효빈     |메인, 자동차 갤러리/백과 |
 
 # 2. Project 목표
 ▶️ 한 사이트에서 다양한 주제에 대해 의견이 오고 갈수 있게 제작합니다.  
@@ -28,7 +29,7 @@
 
 # 3. Project 기획
    ### 3.1- 개발환경 
-   추가 예정   
+   사용언어 JAVA 외 상세내용 추가 예정   
    
    ### 3.2-일정(WBS)  
    ![WBS](https://github.com/MOONHYUNHEE/markdown_20230127/blob/main/doc/wbs.jpg)  
